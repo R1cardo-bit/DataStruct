@@ -1,5 +1,5 @@
 // 左闭右闭
-
+// leetcode：704.折半查找
 #include<stdio.h>
 
 #define MAXSIZE 10
